@@ -1,4 +1,6 @@
 require 'itunes'
+require 'restclient'
+require 'openssl'
 
 module Itunes
   class Receipt
